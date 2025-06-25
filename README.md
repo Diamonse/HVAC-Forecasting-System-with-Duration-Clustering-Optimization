@@ -35,8 +35,7 @@ jupyter notebook work.ipynb
 
 ## ✍️ Author
 
-**Aryan Dixit**  
-Intern @ Blue Star India – R&D Technology Division  
+**Aryan Dixit**   
 Mathematical Sciences Major @ NTU Singapore
 
 ## 📄 License
